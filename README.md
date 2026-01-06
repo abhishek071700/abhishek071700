@@ -36,22 +36,10 @@ Cloud Solutions Professional specializing in AWS architecture, pre-sales, and cl
 ## 🏆 Certifications
 
 ✅ AWS Certified Cloud Practitioner  
-✅ AWS Well-Architected Framework – Proficient  
-✅ AWS Knowledge: Cloud Essentials
 ✅ AWS Sales Accreditation (Business)  
+✅ AWS Well-Architected Framework – Proficient  
+✅ AWS Knowledge: Cloud Essentials  
 ✅ Data Analyst Certificate
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=abhishek071700&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=abhishek071700&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek071700&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=abhishek071700&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 💡 Key Expertise
 
@@ -64,29 +52,40 @@ Cloud Solutions Professional specializing in AWS architecture, pre-sales, and cl
 
 ## 📈 Professional Highlights
 
-- Conducted AWS Well-Architected Framework reviews identifying security risks and performance bottlenecks
-- Performed cost optimization assessments reducing infrastructure spend significantly
-- Generated qualified pipeline of 500+ prospects through strategic prospecting
-- Achieved 15% response rate on personalized outreach campaigns
-- Collaborated with cross-functional teams to deliver customer-focused cloud solutions
+- ✅ Conducted AWS Well-Architected Framework reviews identifying security risks and performance bottlenecks
+- ✅ Performed cost optimization assessments reducing infrastructure spend by 20-30%
+- ✅ Generated qualified pipeline of 500+ prospects through strategic prospecting
+- ✅ Achieved 15% response rate on personalized outreach campaigns
+- ✅ Collaborated with cross-functional teams to deliver customer-focused cloud solutions
+
+## 📚 Featured Repositories
+
+### [AWS Well-Architected Framework Checklist](https://github.com/abhishek071700/aws-well-architected-checklist)
+Comprehensive assessment checklist across all 5 pillars of the AWS Well-Architected Framework. Perfect for architecture reviews and cloud optimization.
+
+### [AWS Cost Optimization Guide](https://github.com/abhishek071700/aws-cost-optimization-guide)
+Proven strategies and best practices to reduce AWS cloud costs by 20-30%. Includes real-world case studies and actionable recommendations.
+
+### [Awesome AWS Resources](https://github.com/abhishek071700/awesome-aws-resources)
+Curated collection of 100+ AWS learning resources, tools, certifications guides, and best practices for cloud professionals.
 
 ## 📫 Let's Connect
 
 Feel free to reach out for collaborations, cloud consulting, or just a chat about AWS and cloud technologies!
 
-- 📧 Email: abhishek071700@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/abhishek-pandey-045241316](https://linkedin.com/in/abhishek-pandey-045241316)
-- 📱 Phone: +91-7860868080
+- 📧 **Email**: abhishek071700@gmail.com
+- 💼 **LinkedIn**: [Abhishek Pandey](https://linkedin.com/in/abhishek-pandey-045241316)
+- 📱 **Phone**: +91-7860868080
+- 🌐 **Location**: Noida, Uttar Pradesh, India
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 💭 Quote of the Day
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+> "Cloud computing is often far more secure than traditional computing, because companies like Google and Amazon can attract and retain cyber-security personnel of a higher quality than many governmental agencies." - Vivek Kundra
 
 ---
-[![](https://visitcount.itsvg.in/api?id=abhishek071700&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![Profile Views](https://visitcount.itsvg.in/api?id=abhishek071700&icon=0&color=0)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in/ ) -->
