@@ -36,9 +36,9 @@ Cloud Solutions Professional specializing in AWS architecture, pre-sales, and cl
 ## 🏆 Certifications
 
 ✅ AWS Certified Cloud Practitioner  
-✅ AWS Sales Accreditation (Business)  
 ✅ AWS Well-Architected Framework – Proficient  
-✅ AWS Knowledge: Cloud Essentials  
+✅ AWS Knowledge: Cloud Essentials
+✅ AWS Sales Accreditation (Business)  
 ✅ Data Analyst Certificate
 
 ## 📊 GitHub Stats
