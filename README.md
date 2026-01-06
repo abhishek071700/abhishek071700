@@ -84,8 +84,5 @@ Feel free to reach out for collaborations, cloud consulting, or just a chat abou
 
 > "Cloud computing is often far more secure than traditional computing, because companies like Google and Amazon can attract and retain cyber-security personnel of a higher quality than many governmental agencies." - Vivek Kundra
 
----
-
-![Profile Views](https://visitcount.itsvg.in/api?id=abhishek071700&icon=0&color=0)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in/ ) -->
