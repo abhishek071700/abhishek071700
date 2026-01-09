@@ -86,3 +86,6 @@ I work closely with sales, engineering, and customers during technical discovery
 ---
 
 ⭐ If you find my work useful, feel free to star the repositories and connect with me!
+
+![snake animation](https://raw.githubusercontent.com/abhishek071700/abhishek071700/output/github-contribution-grid-snake.svg)
+
