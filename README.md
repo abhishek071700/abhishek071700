@@ -12,6 +12,60 @@ Cloud Solutions Professional specializing in AWS architecture, pre-sales, and cl
 💼 Experienced in B2B Cloud Sales, Solution Architecture & Customer Engagement  
 📍 Based in Noida, Uttar Pradesh, India
 
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishek071700&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek071700&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhishek071700&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=bf91f3&currStreakLabel=bf91f3)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=abhishek071700&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishek071700&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae)
+
+</div>
+
+---
+```
+
+### **Step 4: Commit karo**
+
+**Commit message:**
+```
+feat: add GitHub stats widgets and activity graphs
+```
+
+**Green "Commit changes" button dabao**
+
+---
+
+## ✅ CHECKPOINT
+
+**Profile refresh karo:**
+```
+https://github.com/abhishek071700
+
 ## 💻 Tech Stack
 
 ### Cloud Platforms & Services
