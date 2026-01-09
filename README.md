@@ -1,6 +1,6 @@
 # Hi there, I'm Abhishek Pandey 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-pandey-045241316) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-pandey-045241316)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishek071700@gmail.com)
 
 ## 🚀 About Me
@@ -11,8 +11,6 @@ Cloud Solutions Professional specializing in AWS architecture, pre-sales, and cl
 🌱 Focused on AWS Well-Architected Framework, Cost Optimization & Security Best Practices  
 💼 Experienced in B2B Cloud Sales, Solution Architecture & Customer Engagement  
 📍 Based in Noida, Uttar Pradesh, India
-
----
 
 ---
 
@@ -48,45 +46,11 @@ Cloud Solutions Professional specializing in AWS architecture, pre-sales, and cl
 </div>
 
 ---
-```
-
----
-
-## 📝 COMMIT MESSAGE:
-```
-fix: add static badges with profile views  ---
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishek071700&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae)
-
-</div>
-
----
-```
-
-### **Step 4: Commit karo**
-
-**Commit message:**
-```
-feat: add GitHub stats widgets and activity graphs
-```
-
-**Green "Commit changes" button dabao**
-
----
-
-## ✅ CHECKPOINT
-
-**Profile refresh karo:**
-```
-https://github.com/abhishek071700
 
 ## 💻 Tech Stack
 
 ### Cloud Platforms & Services
+
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
@@ -95,6 +59,7 @@ https://github.com/abhishek071700
 ![IAM](https://img.shields.io/badge/AWS%20IAM-DD344C?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### Tools & Technologies
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -102,10 +67,13 @@ https://github.com/abhishek071700
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Data & Analytics
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 🏆 Certifications
+---
+
+## 🎓 Certifications
 
 ✅ AWS Certified Cloud Practitioner  
 ✅ AWS Sales Accreditation (Business)  
@@ -113,48 +81,63 @@ https://github.com/abhishek071700
 ✅ AWS Knowledge: Cloud Essentials  
 ✅ Data Analyst Certificate
 
+---
+
 ## 💡 Key Expertise
 
-- **Cloud Architecture**: Designing scalable and resilient AWS infrastructure
-- **Cost Optimization**: Reducing cloud spend by 20-30% through strategic rightsizing
-- **Security Best Practices**: IAM policies, encryption, network segmentation
-- **Well-Architected Reviews**: Comprehensive assessments across 5 pillars
-- **Pre-Sales Engineering**: Bridging technical solutions with business needs
-- **B2B Sales**: Lead generation, prospect engagement, solution presentations
+* **Cloud Architecture**: Designing scalable and resilient AWS infrastructure
+* **Cost Optimization**: Reducing cloud spend by 20-30% through strategic rightsizing
+* **Security Best Practices**: IAM policies, encryption, network segmentation
+* **Well-Architected Reviews**: Comprehensive assessments across 5 pillars
+* **Pre-Sales Engineering**: Bridging technical solutions with business needs
+* **B2B Sales**: Lead generation, prospect engagement, solution presentations
+
+---
 
 ## 📈 Professional Highlights
 
-- ✅ Conducted AWS Well-Architected Framework reviews identifying security risks and performance bottlenecks
-- ✅ Performed cost optimization assessments reducing infrastructure spend by 20-30%
-- ✅ Generated qualified pipeline of 500+ prospects through strategic prospecting
-- ✅ Achieved 15% response rate on personalized outreach campaigns
-- ✅ Collaborated with cross-functional teams to deliver customer-focused cloud solutions
+* ✅ Conducted AWS Well-Architected Framework reviews identifying security risks and performance bottlenecks
+* ✅ Performed cost optimization assessments reducing infrastructure spend by 20-30%
+* ✅ Generated qualified pipeline of 500+ prospects through strategic prospecting
+* ✅ Achieved 15% response rate on personalized outreach campaigns
+* ✅ Collaborated with cross-functional teams to deliver customer-focused cloud solutions
+
+---
 
 ## 📚 Featured Repositories
 
+### [AWS Architecture Design Examples](https://github.com/abhishek071700/aws-architecture-design-examples)
+Practical AWS architecture patterns with detailed diagrams and trade-off analysis
+
+### [AWS Cost Optimization Case Study](https://github.com/abhishek071700/aws-cost-optimization-case-study)
+Real-world cost reduction achieving $71/month savings (26% reduction)
+
 ### [AWS Well-Architected Framework Checklist](https://github.com/abhishek071700/aws-well-architected-checklist)
-Comprehensive assessment checklist across all 5 pillars of the AWS Well-Architected Framework. Perfect for architecture reviews and cloud optimization.
+Comprehensive assessment checklist across all 5 pillars for architecture reviews
 
 ### [AWS Cost Optimization Guide](https://github.com/abhishek071700/aws-cost-optimization-guide)
-Proven strategies and best practices to reduce AWS cloud costs by 20-30%. Includes real-world case studies and actionable recommendations.
+Proven strategies and best practices to reduce AWS cloud costs by 20-30%
 
 ### [Awesome AWS Resources](https://github.com/abhishek071700/awesome-aws-resources)
-Curated collection of 100+ AWS learning resources, tools, certifications guides, and best practices for cloud professionals.
+Curated collection of 100+ AWS learning resources, tools, and certifications guides
+
+---
 
 ## 📫 Let's Connect
 
 Feel free to reach out for collaborations, cloud consulting, or just a chat about AWS and cloud technologies!
 
-- 📧 **Email**: abhishek071700@gmail.com
-- 💼 **LinkedIn**: [Abhishek Pandey](https://linkedin.com/in/abhishek-pandey-045241316)
-- 📱 **Phone**: +91-7860868080
-- 🌐 **Location**: Noida, Uttar Pradesh, India
+* 📧 **Email**: [abhishek071700@gmail.com](mailto:abhishek071700@gmail.com)
+* 💼 **LinkedIn**: [Abhishek Pandey](https://linkedin.com/in/abhishek-pandey-045241316)
+* 📱 **Phone**: +91-7860868080
+* 🌐 **Location**: Noida, Uttar Pradesh, India
 
 ---
 
-### 💭 Quote of the Day
+### 💭 Quote
 
 > "Cloud computing is often far more secure than traditional computing, because companies like Google and Amazon can attract and retain cyber-security personnel of a higher quality than many governmental agencies." - Vivek Kundra
 
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in/ ) -->
+⭐ **Open to AWS consulting opportunities and collaborations!**
