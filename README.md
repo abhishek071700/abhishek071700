@@ -18,13 +18,20 @@ Cloud Solutions Professional specializing in AWS architecture, pre-sales, and cl
 
 <div align="center">
 
-![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishek071700&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishek071700&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek071700&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek071700&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhishek071700&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=bf91f3&currStreakLabel=bf91f3)
+![Profile Views](https://komarev.com/ghpvc/?username=abhishek071700&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
+
+---
+```
+
+### **Commit message:**
+```
+fix: simplify GitHub stats widgets for better reliability
 
 ---
 
