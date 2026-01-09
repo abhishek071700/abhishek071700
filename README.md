@@ -18,20 +18,18 @@ I focus on **architecture trade-offs**, not just service selection — balancing
 
 ## 📫 Connect With Me
 
-![Email](https://img.shields.io/badge/Email-abhishek071700%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)
-<a href="mailto:abhishek071700@gmail.com">abhishek071700@gmail.com</a>
+## 📫 Connect With Me
 
-![Phone](https://img.shields.io/badge/Call-%2B91%207860868080-25D366?style=flat&logo=whatsapp&logoColor=white)
-<a href="tel:+917860868080">+91 7860868080</a>
+[![Email](https://img.shields.io/badge/Email-abhishek071700%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abhishek071700@gmail.com)
 
-![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat&logo=whatsapp&logoColor=white)
-<a href="https://wa.me/917860868080" target="_blank">Start Chat</a>
+[![Call](https://img.shields.io/badge/Call-%2B91%207860868080-25D366?style=flat&logo=whatsapp&logoColor=white)](tel:+917860868080)
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek%20Pandey-0A66C2?style=flat&logo=linkedin&logoColor=white)
-<a href="https://www.linkedin.com/in/abhishek-pandey-045241316/" target="_blank">View Profile</a>
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/917860868080)
 
-![GitHub](https://img.shields.io/badge/GitHub-abhishek071700-181717?style=flat&logo=github&logoColor=white)
-<a href="https://github.com/abhishek071700" target="_blank">github.com/abhishek071700</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek%20Pandey-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-pandey-045241316/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-abhishek071700-181717?style=flat&logo=github&logoColor=white)](https://github.com/abhishek071700)
+
 
 
 ---
