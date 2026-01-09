@@ -14,36 +14,47 @@ Cloud Solutions Professional specializing in AWS architecture, pre-sales, and cl
 
 ---
 
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishek071700&show_icons=true&theme=radical&hide_border=true)
+### Profile Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek071700&layout=compact&theme=radical&hide_border=true)
+![Profile Views](https://komarev.com/ghpvc/?username=abhishek071700&color=brightgreen&style=for-the-badge&label=Profile+Views&base=75)
+![GitHub Followers](https://img.shields.io/github/followers/abhishek071700?style=for-the-badge&color=blue&label=Followers)
+![Total Repos](https://img.shields.io/badge/Total%20Repos-5-orange?style=for-the-badge)
 
-![Profile Views](https://komarev.com/ghpvc/?username=abhishek071700&color=blueviolet&style=flat-square&label=Profile+Views)
+### Current Stats
+
+![Commits](https://img.shields.io/badge/Total%20Commits-75+-success?style=for-the-badge&logo=github)
+![Stars Earned](https://img.shields.io/badge/Stars%20Earned-⭐%200-yellow?style=for-the-badge)
+![AWS Focus](https://img.shields.io/badge/Focus-AWS%20Solutions-orange?style=for-the-badge&logo=amazon-aws)
 
 </div>
 
 ---
-```
 
-### **Commit message:**
-```
-fix: simplify GitHub stats widgets for better reliability
-
----
-
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=abhishek071700&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
+![AWS Certified](https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Cost Savings](https://img.shields.io/badge/Cost%20Savings-$71%2Fmonth-success?style=for-the-badge)
+![Architecture](https://img.shields.io/badge/Architectures-3%20Designs-blue?style=for-the-badge)
+![Resources](https://img.shields.io/badge/Curated-100+%20Resources-purple?style=for-the-badge)
 
 </div>
 
 ---
+```
+
+---
+
+## 📝 COMMIT MESSAGE:
+```
+fix: add static badges with profile views  ---
 
 ## 📈 Contribution Activity
 
