@@ -8,27 +8,68 @@
 ---
 
 ## 👨‍💻 About Me
-Cloud Pre-Sales Engineer with hands-on experience in AWS solution design, cost optimization, and AWS Well-Architected Framework reviews.  
-I specialize in translating business requirements into secure, scalable, and cost-efficient AWS architectures for SMB and mid-market customers.
 
-I work closely with sales, engineering, and customers during technical discovery, solution design, TCO analysis, and migration planning.
+Cloud Pre-Sales professional focused on AWS architecture, cost optimization, and Well-Architected best practices.  
+I work on translating business requirements into secure, scalable, and cost-efficient AWS solutions, with hands-on exposure to architecture reviews, pre-sales solution design, and optimization discussions.
+
+I focus on **architecture trade-offs**, not just service selection — balancing cost, availability, security, and performance in real-world cloud scenarios.
 
 ---
 
-## 🧰 Tech Stack
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+## 📫 Connect With Me
+
+![Email](https://img.shields.io/badge/Email-abhishek071700%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)
+<a href="mailto:abhishek071700@gmail.com">abhishek071700@gmail.com</a>
+
+![Phone](https://img.shields.io/badge/Call-%2B91%207860868080-25D366?style=flat&logo=whatsapp&logoColor=white)
+<a href="tel:+917860868080">+91 7860868080</a>
+
+![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat&logo=whatsapp&logoColor=white)
+<a href="https://wa.me/917860868080" target="_blank">Start Chat</a>
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek%20Pandey-0A66C2?style=flat&logo=linkedin&logoColor=white)
+<a href="https://www.linkedin.com/in/abhishek-pandey-045241316/" target="_blank">View Profile</a>
+
+![GitHub](https://img.shields.io/badge/GitHub-abhishek071700-181717?style=flat&logo=github&logoColor=white)
+<a href="https://github.com/abhishek071700" target="_blank">github.com/abhishek071700</a>
 
 
-## 📞 Contact & Links
-- 📍 Location: Noida, India  
-- 📧 Email: <a href="mailto:abhishek071700@gmail.com">abhishek071700@gmail.com</a>  
-- 📱 Phone: <a href="tel:+917860868080">+91 7860868080</a>  
-- 💬 WhatsApp: <a href="https://wa.me/917860868080" target="_blank">Chat on WhatsApp</a>  
-- 🔗 LinkedIn: <a href="https://www.linkedin.com/in/abhishek-pandey-045241316/" target="_blank">View Profile</a>  
-- 🧑‍💻 GitHub: <a href="https://github.com/abhishek071700" target="_blank">github.com/abhishek071700</a>
+---
+
+## 🛠️ Technical Skills
+
+### ☁️ Cloud & Architecture
+![AWS](https://img.shields.io/badge/AWS-Architecture-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Well-Architected](https://img.shields.io/badge/AWS-Well--Architected%20Framework-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Cost](https://img.shields.io/badge/Cloud-Cost%20Optimization-2E86C1?style=flat)
+
+---
+
+### ⚙️ AWS Services
+![EC2](https://img.shields.io/badge/AWS-EC2-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/AWS-S3-569A31?style=flat&logo=amazonaws&logoColor=white)
+![RDS](https://img.shields.io/badge/AWS-RDS-527FFF?style=flat&logo=amazonaws&logoColor=white)
+![VPC](https://img.shields.io/badge/AWS-VPC-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![IAM](https://img.shields.io/badge/AWS-IAM-DD344C?style=flat&logo=amazonaws&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/AWS-CloudWatch-FF4F8B?style=flat&logo=amazonaws&logoColor=white)
+
+---
+
+### 🧩 DevOps & Tools
+![Linux](https://img.shields.io/badge/Linux-Administration-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Basics-2496ED?style=flat&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-Basics-7B42BC?style=flat&logo=terraform&logoColor=white)
+
+---
+
+### 🧠 Pre-Sales & Consulting
+![Discovery](https://img.shields.io/badge/Pre--Sales-Technical%20Discovery-0E76A8?style=flat)
+![Design](https://img.shields.io/badge/Solution-Architecture%20Design-0E76A8?style=flat)
+![TCO](https://img.shields.io/badge/Cost-TCO%20Analysis-0E76A8?style=flat)
+![Migration](https://img.shields.io/badge/Cloud-Migration%20Planning-0E76A8?style=flat)
+
+
 
 ---
 
