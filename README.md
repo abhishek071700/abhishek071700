@@ -15,6 +15,13 @@ I work closely with sales, engineering, and customers during technical discovery
 
 ---
 
+## 🧰 Tech Stack
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+
 ## 📞 Contact & Links
 - 📍 Location: Noida, India  
 - 📧 Email: <a href="mailto:abhishek071700@gmail.com">abhishek071700@gmail.com</a>  
