@@ -59,49 +59,6 @@ I focus on architecture trade-offs across availability, security, performance, a
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/abhishek071700/abhishek071700/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-
-</div>
-
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/abhishek071700">
-    <img src="https://github-readme-stats.vercel.app/api?username=abhishek071700&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  </a>
-</div>
-
----
-
-## 💻 Top Languages
-
-<div align="center">
-  <a href="https://github.com/abhishek071700">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek071700&layout=compact&hide_border=true" alt="Top Languages" />
-  </a>
-</div>
-
-
----
-
-## 📈 GitHub Streak
-
-<div align="center">
-  <a href="https://github.com/abhishek071700">
-    <img src="https://streak-stats.demolab.com?user=abhishek071700&hide_border=true" alt="GitHub Streak" />
-  </a>
-</div>
-
-
----
-
 ## 📫 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-abhishek071700%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abhishek071700@gmail.com)
