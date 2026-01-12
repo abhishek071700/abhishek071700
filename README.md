@@ -76,7 +76,8 @@
 
 <div align="center">
   
-![Snake animation](https://raw.githubusercontent.com/abhishek071700/abhishek071700/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/abhishek071700/abhishek071700/output/github-contribution-grid-snake.svg)
+
 
 </div>
 
@@ -124,25 +125,13 @@
 
 ## 📚 Featured Repositories
 
-<div align="center">
+## 🚀 Featured Repositories
 
-<a href="https://github.com/abhishek071700/aws-architecture-design-examples">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek071700&repo=aws-architecture-design-examples&theme=radical&hide_border=true" alt="AWS Architecture Design" />
-</a>
+[![Well Architected](https://img.shields.io/badge/AWS-Well--Architected%20Checklist-FF9900?style=flat&logo=amazonaws&logoColor=white)](https://github.com/abhishek071700/aws-well-architected-checklist)
 
-<a href="https://github.com/abhishek071700/aws-cost-optimization-case-study">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek071700&repo=aws-cost-optimization-case-study&theme=radical&hide_border=true" alt="AWS Cost Optimization Case Study" />
-</a>
+[![Architecture](https://img.shields.io/badge/AWS-Architecture%20Design%20Examples-232F3E?style=flat&logo=amazonaws&logoColor=white)](https://github.com/abhishek071700/aws-architecture-design-examples)
 
-<a href="https://github.com/abhishek071700/aws-well-architected-checklist">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek071700&repo=aws-well-architected-checklist&theme=radical&hide_border=true" alt="AWS Well-Architected Checklist" />
-</a>
-
-<a href="https://github.com/abhishek071700/aws-cost-optimization-guide">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek071700&repo=aws-cost-optimization-guide&theme=radical&hide_border=true" alt="AWS Cost Optimization Guide" />
-</a>
-
-</div>
+[![Cost Opt](https://img.shields.io/badge/AWS-Cost%20Optimization%20Case%20Study-2E86C1?style=flat&logo=amazonaws&logoColor=white)](https://github.com/abhishek071700/aws-cost-optimization-case-study)
 
 ---
 
@@ -173,25 +162,17 @@
 
 ## 📫 Connect With Me
 
-<div align="center">
+## 📫 Connect With Me
 
-<a href="https://linkedin.com/in/abhishek-pandey-045241316">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+[![Email](https://img.shields.io/badge/Email-abhishek071700%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abhishek071700@gmail.com)
 
-<a href="mailto:abhishek071700@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+[![Call](https://img.shields.io/badge/Call-%2B91%207860868080-0B5FFF?style=flat)](tel:+917860868080)
 
-<a href="https://github.com/abhishek071700">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/917860868080)
 
-<a href="tel:+917860868080">
-  <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek%20Pandey-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-pandey-045241316/)
 
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-abhishek071700-181717?style=flat&logo=github&logoColor=white)](https://github.com/abhishek071700)
 
 ---
 
