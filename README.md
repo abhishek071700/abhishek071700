@@ -83,16 +83,26 @@
 
 ---
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
 <a href="https://github.com/abhishek071700">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhishek071700&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="abhishek071700"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishek071700&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
 </a>
 
+</div>
+
+---
+
+## 💻 Top Languages
+
+<div align="center">
+
 <a href="https://github.com/abhishek071700">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek071700&layout=compact&theme=radical&hide_border=true" alt="abhishek071700"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek071700&layout=compact&hide_border=true" alt="Top Languages" />
 </a>
 
 </div>
@@ -104,7 +114,7 @@
 <div align="center">
 
 <a href="https://github.com/abhishek071700">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhishek071700&theme=darkhub&no-frame=true&row=1&column=7" alt="abhishek071700" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abhishek071700&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </a>
 
 </div>
@@ -116,7 +126,7 @@
 <div align="center">
 
 <a href="https://github.com/abhishek071700">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek071700&theme=dark&hide_border=true" alt="abhishek071700" />
+  <img src="https://streak-stats.demolab.com?user=abhishek071700&hide_border=true" alt="GitHub Streak" />
 </a>
 
 </div>
@@ -124,8 +134,6 @@
 ---
 
 ## 📚 Featured Repositories
-
-## 🚀 Featured Repositories
 
 [![Well Architected](https://img.shields.io/badge/AWS-Well--Architected%20Checklist-FF9900?style=flat&logo=amazonaws&logoColor=white)](https://github.com/abhishek071700/aws-well-architected-checklist)
 
