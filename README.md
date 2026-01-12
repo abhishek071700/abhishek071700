@@ -1,137 +1,232 @@
-<h1 align="center">Hi 👋, I'm Abhishek Pandey</h1>
-<h3 align="center">Cloud Pre-Sales Engineer | AWS Architecture | Cost Optimization</h3>
+<div align="center">
+
+# Hey, I'm Abhishek Pandey 👋
+
+### Cloud Pre-Sales Engineer | AWS Solutions Architect | DevOps Enthusiast
+
+[![Profile Views](https://komarev.com/ghpvc/?username=abhishek071700&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/abhishek071700)
+[![GitHub Followers](https://img.shields.io/github/followers/abhishek071700?style=social)](https://github.com/abhishek071700)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/abhishek-pandey-045241316)
+
+</div>
+
+---
+
+## 🚀 About Me:
+
+* 🔭 I'm currently working on **[AWS Well-Architected Framework Reviews](https://github.com/abhishek071700/aws-well-architected-checklist) & [Cost Optimization](https://github.com/abhishek071700/aws-cost-optimization-guide)**
+* 🌱 I'm currently learning **[Terraform](https://www.terraform.io/), [CloudFormation](https://aws.amazon.com/cloudformation/), Advanced AWS Services**
+* 👯 I'm looking to collaborate on **[AWS Architecture](https://github.com/abhishek071700/aws-architecture-design-examples), Cloud Migration, DevOps Projects**
+* 💬 Ask me about **[AWS](https://aws.amazon.com/), [Cloud Architecture](https://github.com/abhishek071700/aws-architecture-design-examples), Pre-Sales, [Cost Optimization](https://github.com/abhishek071700/aws-cost-optimization-guide), [Well-Architected Framework](https://github.com/abhishek071700/aws-well-architected-checklist)**
+* 📫 How to reach me **[abhishek071700@gmail.com](mailto:abhishek071700@gmail.com)**
+* ⚡ Fun fact **I help companies save 20-30% on AWS costs without compromising performance!**
+
+---
+
+## 🎓 Certifications
+
+<div align="center">
+
+[![AWS Well-Architected](https://img.shields.io/badge/AWS-Well--Architected%20Proficient-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/architecture/well-architected/)
+[![AWS Certified](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+[![AWS Sales](https://img.shields.io/badge/AWS-Sales%20Accreditation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/partners/training/)
+
+</div>
+
+---
+
+## 🛠️ AWS Services & Cloud Tools
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhishek071700&label=Profile%20Views&color=0e75b6&style=flat&count=75" alt="profile views" />
+  <a href="https://aws.amazon.com/ec2/"><img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" alt="EC2"/></a>
+  <a href="https://aws.amazon.com/s3/"><img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" alt="S3"/></a>
+  <a href="https://aws.amazon.com/rds/"><img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white" alt="RDS"/></a>
+  <a href="https://aws.amazon.com/lambda/"><img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" alt="Lambda"/></a>
+  <a href="https://aws.amazon.com/vpc/"><img src="https://img.shields.io/badge/AWS%20VPC-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="VPC"/></a>
+  <a href="https://aws.amazon.com/iam/"><img src="https://img.shields.io/badge/AWS%20IAM-DD344C?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="IAM"/></a>
+  <a href="https://aws.amazon.com/cloudwatch/"><img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white" alt="CloudWatch"/></a>
+  <a href="https://aws.amazon.com/route53/"><img src="https://img.shields.io/badge/Route%2053-8C4FFF?style=for-the-badge&logo=amazon-route53&logoColor=white" alt="Route 53"/></a>
+  <a href="https://aws.amazon.com/elasticloadbalancing/"><img src="https://img.shields.io/badge/ELB-8C4FFF?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="ELB"/></a>
+  <a href="https://aws.amazon.com/autoscaling/"><img src="https://img.shields.io/badge/Auto%20Scaling-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Auto Scaling"/></a>
+</p>
+
+## 💻 Infrastructure & DevOps Tools
+
+<p align="center">
+  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+  <a href="https://www.terraform.io/"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/></a>
+  <a href="https://aws.amazon.com/cloudformation/"><img src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="CloudFormation"/></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/></a>
+  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
+</p>
+
+## 🎯 Pre-Sales & Business Tools
+
+<p align="center">
+  <a href="https://www.salesforce.com/"><img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce"/></a>
+  <a href="https://business.linkedin.com/sales-solutions/sales-navigator"><img src="https://img.shields.io/badge/LinkedIn%20Sales%20Navigator-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sales Navigator"/></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/></a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🐍 Watch the Snake Eat My Contributions!
 
-Cloud Pre-Sales professional focused on AWS architecture, cost optimization, and Well-Architected best practices.  
-I work on translating business requirements into secure, scalable, and cost-efficient AWS solutions, with hands-on exposure to architecture reviews, pre-sales solution design, and optimization discussions.
+<div align="center">
+  
+![Snake animation](https://raw.githubusercontent.com/abhishek071700/abhishek071700/output/github-contribution-grid-snake-dark.svg)
 
-I focus on **architecture trade-offs**, not just service selection — balancing cost, availability, security, and performance in real-world cloud scenarios.
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/abhishek071700">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhishek071700&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="abhishek071700"/>
+</a>
+
+<a href="https://github.com/abhishek071700">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek071700&layout=compact&theme=radical&hide_border=true" alt="abhishek071700"/>
+</a>
+
+</div>
+
+---
+
+## 🏆 GitHub Profile Trophy
+
+<div align="center">
+
+<a href="https://github.com/abhishek071700">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhishek071700&theme=darkhub&no-frame=true&row=1&column=7" alt="abhishek071700" />
+</a>
+
+</div>
+
+---
+
+## 📈 GitHub Streak
+
+<div align="center">
+
+<a href="https://github.com/abhishek071700">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek071700&theme=dark&hide_border=true" alt="abhishek071700" />
+</a>
+
+</div>
+
+---
+
+## 📚 Featured Repositories
+
+<div align="center">
+
+<a href="https://github.com/abhishek071700/aws-architecture-design-examples">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek071700&repo=aws-architecture-design-examples&theme=radical&hide_border=true" alt="AWS Architecture Design" />
+</a>
+
+<a href="https://github.com/abhishek071700/aws-cost-optimization-case-study">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek071700&repo=aws-cost-optimization-case-study&theme=radical&hide_border=true" alt="AWS Cost Optimization Case Study" />
+</a>
+
+<a href="https://github.com/abhishek071700/aws-well-architected-checklist">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek071700&repo=aws-well-architected-checklist&theme=radical&hide_border=true" alt="AWS Well-Architected Checklist" />
+</a>
+
+<a href="https://github.com/abhishek071700/aws-cost-optimization-guide">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abhishek071700&repo=aws-cost-optimization-guide&theme=radical&hide_border=true" alt="AWS Cost Optimization Guide" />
+</a>
+
+</div>
+
+---
+
+## 💡 Areas of Expertise
+
+<div align="center">
+
+| 🏗️ **[Cloud Architecture](https://github.com/abhishek071700/aws-architecture-design-examples)** | 💰 **[Cost Optimization](https://github.com/abhishek071700/aws-cost-optimization-guide)** | 🔒 **[Security](https://aws.amazon.com/security/)** | 🚀 **Pre-Sales** |
+|:---:|:---:|:---:|:---:|
+| Multi-tier Architecture | 20-30% Cost Reduction | [IAM Best Practices](https://aws.amazon.com/iam/) | Technical Discovery |
+| [High Availability Design](https://github.com/abhishek071700/aws-architecture-design-examples) | [Reserved Instance Planning](https://aws.amazon.com/ec2/pricing/reserved-instances/) | [Network Security](https://aws.amazon.com/vpc/) | Solution Design |
+| [Disaster Recovery](https://aws.amazon.com/disaster-recovery/) | [S3 Lifecycle Policies](https://aws.amazon.com/s3/storage-classes/) | Encryption & Compliance | TCO Analysis |
+| [Well-Architected Reviews](https://github.com/abhishek071700/aws-well-architected-checklist) | Rightsizing Strategies | [VPC Security Groups](https://aws.amazon.com/vpc/) | RFP/RFQ Response |
+
+</div>
+
+---
+
+## 🎯 Key Achievements
+
+* ✅ **20-30% AWS Cost Reduction** through strategic architecture optimization
+* ✅ **500+ B2B Prospects** qualified and engaged
+* ✅ **[Multi-tier Architecture Designs](https://github.com/abhishek071700/aws-architecture-design-examples)** for production workloads
+* ✅ **[Well-Architected Framework Reviews](https://github.com/abhishek071700/aws-well-architected-checklist)** across all 5 pillars
+* ✅ **Migration Planning** and [TCO analysis](https://aws.amazon.com/tco-calculator/) for cloud adoption
 
 ---
 
 ## 📫 Connect With Me
 
-## 📫 Connect With Me
+<div align="center">
 
-[![Email](https://img.shields.io/badge/Email-abhishek071700%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:abhishek071700@gmail.com)
+<a href="https://linkedin.com/in/abhishek-pandey-045241316">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
-[![Call](https://img.shields.io/badge/Call-%2B91%207860868080-25D366?style=flat&logo=whatsapp&logoColor=white)](tel:+917860868080)
+<a href="mailto:abhishek071700@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/917860868080)
+<a href="https://github.com/abhishek071700">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhishek%20Pandey-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-pandey-045241316/)
+<a href="tel:+917860868080">
+  <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-abhishek071700-181717?style=flat&logo=github&logoColor=white)](https://github.com/abhishek071700)
-
-
-
----
-
-## 🛠️ Technical Skills
-
-### ☁️ Cloud & Architecture
-![AWS](https://img.shields.io/badge/AWS-Architecture-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Well-Architected](https://img.shields.io/badge/AWS-Well--Architected%20Framework-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![Cost](https://img.shields.io/badge/Cloud-Cost%20Optimization-2E86C1?style=flat)
+</div>
 
 ---
 
-### ⚙️ AWS Services
-![EC2](https://img.shields.io/badge/AWS-EC2-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![S3](https://img.shields.io/badge/AWS-S3-569A31?style=flat&logo=amazonaws&logoColor=white)
-![RDS](https://img.shields.io/badge/AWS-RDS-527FFF?style=flat&logo=amazonaws&logoColor=white)
-![VPC](https://img.shields.io/badge/AWS-VPC-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![IAM](https://img.shields.io/badge/AWS-IAM-DD344C?style=flat&logo=amazonaws&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/AWS-CloudWatch-FF4F8B?style=flat&logo=amazonaws&logoColor=white)
+## ⚙️ Things I Use to Get Stuff Done
+
+* **OS:** Windows 11
+* **Laptop:** Standard Development Setup
+* **Browser:** [Google Chrome](https://www.google.com/chrome/), [Microsoft Edge](https://www.microsoft.com/edge)
+* **Code Editor:** [VSCode](https://code.visualstudio.com/) - The ultimate editor for cloud infrastructure code
+* **Cloud Console:** [AWS Management Console](https://aws.amazon.com/console/)
+* **Documentation:** [Markdown](https://www.markdownguide.org/), [Confluence](https://www.atlassian.com/software/confluence)
+* **To Stay Updated:** [LinkedIn](https://www.linkedin.com/), [AWS Documentation](https://docs.aws.amazon.com/), [GitHub](https://github.com/)
 
 ---
 
-### 🧩 DevOps & Tools
-![Linux](https://img.shields.io/badge/Linux-Administration-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Basics-2496ED?style=flat&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-Basics-7B42BC?style=flat&logo=terraform&logoColor=white)
+## 🎓 Education
+
+**Bachelor of Arts in Information Technology**  
+[Uttar Pradesh Rajarshi Tandon Open University](https://uprtou.ac.in/) | 2018 - 2021
 
 ---
 
-### 🧠 Pre-Sales & Consulting
-![Discovery](https://img.shields.io/badge/Pre--Sales-Technical%20Discovery-0E76A8?style=flat)
-![Design](https://img.shields.io/badge/Solution-Architecture%20Design-0E76A8?style=flat)
-![TCO](https://img.shields.io/badge/Cost-TCO%20Analysis-0E76A8?style=flat)
-![Migration](https://img.shields.io/badge/Cloud-Migration%20Planning-0E76A8?style=flat)
+<div align="center">
 
+### 💭 Professional Philosophy
 
+*"The best cloud architecture isn't the most complex—it's the one that delivers maximum business value while maintaining security, reliability, and cost-efficiency."*
 
 ---
 
-## 🛠️ Technical Skills
-**AWS Services:** EC2, S3, RDS, VPC, IAM, CloudWatch, Auto Scaling, ELB, Route 53, Lambda  
-**Cloud Architecture:** AWS Well-Architected Framework (5 Pillars), High Availability, Disaster Recovery, Cost Optimization  
-**Infrastructure & Tools:** Linux, Docker, Git, CloudFormation, Terraform (Basic), Python (Basic), SQL  
-**Pre-Sales & Consulting:** Technical Discovery, Solution Design, Architecture Diagrams, TCO Analysis, RFP/RFQ Responses  
-**Sales & CRM:** LinkedIn Sales Navigator, Apollo.io, Lusha, Salesforce  
+### ⭐ Open to AWS Consulting, Pre-Sales Collaborations & Cloud Architecture Projects
+
+**Last Updated:** January 2026
+
+</div>
+```
 
 ---
-
-## 📜 Certifications
-- AWS Well-Architected Proficient  
-- AWS Cloud Practitioner Essentials  
-- AWS Cloud Essentials  
-- AWS Sales Accreditation (Business)  
-
----
-
-## 💼 Professional Experience
-
-### **Cloud Pre-Sales Executive (AWS)**  
-**DHS Cloud Services Pvt. Ltd. | Nov 2025 – Present**
-- Lead AWS pre-sales engagements and design secure, scalable, cost-optimized architectures  
-- Conduct AWS Well-Architected Framework reviews across all five pillars  
-- Identify 20–30% AWS cost savings through rightsizing, RIs, S3 lifecycle policies  
-- Prepare architecture diagrams, TCO analysis, and migration roadmaps  
-- Act as technical bridge between sales, engineering teams, and customers  
-
-### **Inside Sales – Cloud Solutions**  
-**i2k2 Networks Pvt. Ltd. | Jul 2025 – Nov 2025**
-- Managed B2B sales cycles for AWS and cloud infrastructure solutions  
-- Conducted technical discovery calls with customers  
-- Generated and qualified leads using Sales Navigator & Apollo.io  
-
-### **Business Development Associate (Tech Sales Support)**  
-**Dowell Research UK Limited | Apr 2021 – Apr 2022**
-- Built 500+ B2B prospect database  
-- Supported technical sales teams with lead qualification  
-- Created Excel dashboards for pipeline tracking  
-
----
-
-## 🚀 Projects & Practical Work
-- **AWS Well-Architected Framework Reviews**  
-  👉 <a href="https://github.com/abhishek071700/aws-well-architected-checklist">View Repository</a>
-
-- **AWS Architecture Design Examples**  
-  👉 <a href="https://github.com/abhishek071700/aws-architecture-design-examples">View Repository</a>
-
-- **AWS Cost Optimization Case Studies**  
-  👉 <a href="https://github.com/abhishek071700/aws-cost-optimization-case-study">View Repository</a>
-
----
-
-## 🎯 Career Focus
-- AWS Solution Architecture  
-- Cloud Pre-Sales & Consulting  
-- Cost Optimization & Migration Planning  
-
----
-
-⭐ If you find my work useful, feel free to star the repositories and connect with me!
-
-![snake animation](https://raw.githubusercontent.com/abhishek071700/abhishek071700/output/github-contribution-grid-snake.svg)
-
